@@ -2,7 +2,10 @@
 
 def even_odd(x):
     # Todo: Code to determine & print even or odd
-
+    if x % 2:
+        print('odd')
+    else:
+        print('even')
 
 even_odd(5)
 even_odd(6)
