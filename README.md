@@ -2,6 +2,14 @@
 
 Lets change the world together with Open-Source
 
+<p align="center">
+  <a><img src="https://img.shields.io/github/labels/tasnimzotder/hactoberfest-2020/hacktoberfest?style=flat-square" /></a>
+  <a><img src="https://img.shields.io/github/hacktoberfest/2020/tasnimzotder/hactoberfest-2020?style=flat-square" /></a>
+  <a><img src="https://img.shields.io/github/issues/tasnimzotder/hactoberfest-2020?style=flat-square" /></a>
+  <a><img src="https://img.shields.io/github/issues-pr/tasnimzotder/hactoberfest-2020?style=flat-square" /></a>
+</p>
+
+
 ![ Hacktoberfest](/assets/hacktoberfest.jpg)
 
 # How to contribute
