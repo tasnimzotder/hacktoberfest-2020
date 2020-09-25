@@ -7,6 +7,5 @@ def even_odd(x):
     else:
         print("The number is Odd")
 
-
 even_odd(5)
 even_odd(6)
