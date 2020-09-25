@@ -28,4 +28,6 @@ Lets change the world together with Open-Source
 
 5. `Commit` your change with appropriate message.
 
-5. Create a `pull request` for the corresponding `issue`
+6. Create a `pull request` for the corresponding `issue`
+
+> PLEASE DON'T FORFOR TO CONTRIBUTE AND CREATE NEW ISSUE
