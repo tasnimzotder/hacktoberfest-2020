@@ -1,13 +1,15 @@
 # Factorial of a number
 
 def factorial(n):
-    if n == 1:
+    # Todo: write function to return the factorial of n
+    if n < 0:
+        return "Sorry, factorial does not exist for negative numbers"
+    elif n == 0:
+        return 1
+    elif n == 1:
         return n
-    elif n < 1:
-        return ("NA")
     else:
         return n*factorial(n-1)
-    
 
 
 num = int(input())
