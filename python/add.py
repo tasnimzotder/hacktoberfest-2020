@@ -3,6 +3,7 @@
 def add(a, b):
     # Todo: Write code to add two numbers
 	return a+b
-
-sum = add(4, 5)
+a = float(input())
+b = float(input()) 
+sum = add(a, b)
 print('Sum: {}'.format(sum))
