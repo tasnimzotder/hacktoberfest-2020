@@ -94,7 +94,7 @@ git push
 12. Next...
 ![PR](/assets/PR_2.jpg)
 
-13. 🎉🎉🎉 Congrajulation. Your PR is live.
+13. 🎉🎉🎉 Congratulations. Your PR is live.
 
 ## B. OR
 
