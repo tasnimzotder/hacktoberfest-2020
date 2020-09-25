@@ -31,3 +31,10 @@ Lets change the world together with Open-Source
 6. Create a `pull request` for the corresponding `issue`
 
 > PLEASE DON'T FORFOR TO CONTRIBUTE AND CREATE NEW ISSUE
+
+# Rules of Hacktoberfest
+
+1. You need to make 4 valid PR (`Pull Request`) between October 1-31.
+1. `PR` can be made to any public repo on GitHub.
+1. If a maintainer reports your PR as spam or behavior not in line with the project's code of conduct, you will be ineligible to participate.
+1. This year, the first `75K` participants who successfully complete the challenge will be eligible to receive a price.
