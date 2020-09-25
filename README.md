@@ -2,7 +2,7 @@
 
 Lets change the world together with Open-Source
 
-![ Name](assets\hacktoberfest.jpg)
+![ Hacktoberfest](/assets/hacktoberfest.jpg)
 
 # How to contribute
 
