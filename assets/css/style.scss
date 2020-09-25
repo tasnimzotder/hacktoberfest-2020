@@ -1,0 +1,11 @@
+---
+---
+
+@import '{{ site.theme }}';
+$primary-color: #000;
+.page-header {
+  color: $primary-color;
+  .btn {
+    background-color: #0fd4bd;
+  }
+}
