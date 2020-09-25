@@ -28,6 +28,7 @@ To contribute a hackbar 🍫 -
 
 2. `Clone` the `forked` repository from your account.
 ![Clone](/assets/clone.jpg)
+
 Copy the `url` and paste the `url` in the `terminal`/ `git bash`/ `cmd` or `powershell`.
 Don't copy the `url` given below.
 
