@@ -1,6 +1,6 @@
 # Hactoberfest 2020
 
-Lets change the world together with Open-Source
+Lets change the world together with Open-Source.
 
 ![ Hacktoberfest](/assets/hacktoberfest.jpg)
 
@@ -31,3 +31,4 @@ Lets change the world together with Open-Source
 6. Create a `pull request` for the corresponding `issue`
 
 > PLEASE DON'T FORFOR TO CONTRIBUTE AND CREATE NEW ISSUE
+
