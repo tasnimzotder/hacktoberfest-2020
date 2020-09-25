@@ -1,11 +1,15 @@
 # Function to check if a number is even or odd
 
 def even_odd(n):
-    # Todo: Code to determine & print even or odd
-    if(n%2==0):
-        print("even")
+    
+
+    
+
+
+    if x % 2:
+        print('odd')
     else:
-        print ("odd")
+        print('even')
 
 
 even_odd(5)
