@@ -1,7 +1,12 @@
 # Sum of the elements of an array
 
 def sum_arr(arr):
-    # Todo: write function to return the sum of the array
+    sum=0
+    for x in arr:
+        sum+=x
+    
+    return sum 
+        
 
 
 arr = [1, 9, 2, 0]
