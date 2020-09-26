@@ -1,5 +1,5 @@
 ---
-layout: Hackbar
+layout: hackbar
 title: Ankit's Hackbar
 author: Ankit Goel
 ---
