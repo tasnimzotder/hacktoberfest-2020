@@ -9,8 +9,12 @@ Lets change the world together with Open-Source
   <a><img src="https://img.shields.io/github/issues-pr/tasnimzotder/hactoberfest-2020?style=flat-square" /></a>
 </p>
 
-
 ![Hacktoberfest](/assets/hacktoberfest.jpg)
+
+## 📝 [Register here](https://hacktoberfest.digitalocean.com/) for Hacktoberfest 2020
+
+<br>
+<br>
 
 # [Hackbars](https://tasnimzotder.github.io/hactoberfest-2020/hackbars) 🍫
 
