@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+collections:
+  hackbars:
+    output: true
+    permalink: /hackbars/:name
