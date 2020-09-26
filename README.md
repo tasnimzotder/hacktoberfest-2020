@@ -1,22 +1,20 @@
-# Hactoberfest 2020
+# Hacktoberfest 2020
 
 Lets change the world together with Open-Source
 
 <p align="center">
-  <a><img src="https://img.shields.io/github/labels/tasnimzotder/hactoberfest-2020/hacktoberfest?style=flat-square" /></a>
-  <a><img src="https://img.shields.io/github/hacktoberfest/2020/tasnimzotder/hactoberfest-2020?style=flat-square" /></a>
-  <a><img src="https://img.shields.io/github/issues/tasnimzotder/hactoberfest-2020?style=flat-square" /></a>
-  <a><img src="https://img.shields.io/github/issues-pr/tasnimzotder/hactoberfest-2020?style=flat-square" /></a>
+  <a><img src="https://img.shields.io/github/labels/tasnimzotder/hacktoberfest-2020/hacktoberfest?style=flat-square" /></a>
+  <a><img src="https://img.shields.io/github/hacktoberfest/2020/tasnimzotder/hacktoberfest-2020?style=flat-square" /></a>
+  <a><img src="https://img.shields.io/github/issues/tasnimzotder/hacktoberfest-2020?style=flat-square" /></a>
+  <a><img src="https://img.shields.io/github/issues-pr/tasnimzotder/hacktoberfest-2020?style=flat-square" /></a>
 </p>
 
 ![Hacktoberfest](/assets/hacktoberfest.jpg)
 
 ## 📝 [Register here](https://hacktoberfest.digitalocean.com/) for Hacktoberfest 2020
 
-<br>
-<br>
 
-# [Hackbars](https://tasnimzotder.github.io/hactoberfest-2020/hackbars) 🍫
+# [Hackbars](https://tasnimzotder.github.io/hacktoberfest-2020/hackbars) 🍫
 
 All of our user-submitted `hackbars` are available in the `/_hackbars` directory.
 
@@ -37,12 +35,12 @@ Copy the `url` and paste the `url` in the `terminal`/ `git bash`/ `cmd` or `powe
 Don't copy the `url` given below.
 
 ```bash
-git clone https://github.com/{your-username}/hactoberfest-2020.git
+git clone https://github.com/{your-username}/hacktoberfest-2020.git
 ```
 
 3. Go to the directory
 ```bash
-cd hactoberfest-2020
+cd hacktoberfest-2020
 ```
 
 4. Open the directory in VS Code (or any other code editor)
