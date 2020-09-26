@@ -3,7 +3,7 @@
 
 import pywhatkit 
 try: 
-	pywhatkit.sendwhatmsg("+919876543210", "Welcome to contribute with hacktober", 15, 00)
+	pywhatkit.sendwhatmsg("+91**********", "Welcome to contribute with hacktober", 15, 00)
 	print("Message Sent Successfully!") 
 
 except: 
