@@ -13,6 +13,9 @@ Lets change the world together with Open-Source
 
 ## 📝 [Register here](https://hacktoberfest.digitalocean.com/) for Hacktoberfest 2020
 
+### 👉 Pull requests for Hacktoberfest count October 1-31.
+
+---
 
 # [Hackbars](https://tasnimzotder.github.io/hacktoberfest-2020/hackbars) 🍫
 
@@ -112,7 +115,7 @@ git push
 
 6. Create a `pull request` for the corresponding `issue`
 
-> PLEASE DON'T FORFOR TO CONTRIBUTE AND CREATE NEW ISSUE
+> PLEASE DON'T FORGOT TO CONTRIBUTE AND CREATE NEW ISSUE
 
 # Rules of Hacktoberfest
 
