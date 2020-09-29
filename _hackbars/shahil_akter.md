@@ -11,4 +11,4 @@ And I believe we can do more together.
 
 ## We are lossing the chance ⏱
 
-![Test Img](images/shahil_akter.jpg)
+![Test Img](./images/shahil_akter.jpg)
