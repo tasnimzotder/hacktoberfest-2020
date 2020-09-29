@@ -1,6 +1,6 @@
-# Hacktoberfest 2020
+# Hacktoberfest 2020 👩‍💻 + 🌍
 
-Lets change the world together with Open-Source
+Let's change the world together with `Open-Source` & make a awareness on `climate change`
 
 <p align="center">
   <a><img src="https://img.shields.io/github/labels/tasnimzotder/hacktoberfest-2020/hacktoberfest?style=flat-square" /></a>
@@ -9,7 +9,9 @@ Lets change the world together with Open-Source
   <a><img src="https://img.shields.io/github/issues-pr/tasnimzotder/hacktoberfest-2020?style=flat-square" /></a>
 </p>
 
-![Hacktoberfest](/assets/hacktoberfest.jpg)
+## Time is short but together we still have a chance to `recover our planet earth` 🌍.
+
+![Hacktoberfest](/assets/docs_img/hacktoberfest.jpg)
 
 ## 📝 [Register here](https://hacktoberfest.digitalocean.com/) for Hacktoberfest 2020
 
@@ -21,22 +23,23 @@ Lets change the world together with Open-Source
 
 All of our user-submitted `hackbars` are available in the `/_hackbars` directory.
 
+🎁 A `hackbar` contains -
+
+1. A message on `open-source`.
+1. A message on `climage change`.
+1. A image of `climate change awareness` or a selfie with `plantation`.
 
 # How to contribute
 
-## A. For absolute beginner
-
-To contribute a hackbar 🍫 - 
+## To contribute a hackbar 🍫 - 
 
 1. `Fork` the repository.
-![Fork](/assets/fork.jpg)
+![Fork](/assets/docs_img/fork.jpg)
 
 2. `Clone` the `forked` repository from your account.
-![Clone](/assets/clone.jpg)
-
+![Clone](/assets/docs_img/clone.jpg)
 Copy the `url` and paste the `url` in the `terminal`/ `git bash`/ `cmd` or `powershell`.
 Don't copy the `url` given below.
-
 ```bash
 git clone https://github.com/{your-username}/hacktoberfest-2020.git
 ```
@@ -46,14 +49,18 @@ git clone https://github.com/{your-username}/hacktoberfest-2020.git
 cd hacktoberfest-2020
 ```
 
-4. Open the directory in VS Code (or any other code editor)
+4. Open the directory in `VS Code` (or any other code editor)
 ```bash
 code .
 ```
 
-5. Go to `_hackbars` and create a new file `your_name.md`
+5. Download a `copyright free` image on `climate change` or take a selfie with your `plantation`. The image size should < `150 KB`.
 
-6. In the `your_name.md` file type as the following lines.
+6. Rename the image as `your_name.jpg` [no space] and copy the to `assets/images/` directory.
+
+7. Go to `_hackbars` and create a new file `your_name.md`
+
+8. In the `your_name.md` file type as the following lines.
 ```markdown
 ---
 layout: hackbar
@@ -61,10 +68,16 @@ title: any_title
 author: your_name
 ---
 
-<!-- Type your message here -->
-```
-> for example -
+<!-- Your MESSAGE on open source-->
 
+---
+
+## <!-- Your MESSAGE on climate change -->
+
+![image_caption]({{site.baseurl}}/assets/images/image_name.jpg)
+```
+Change `image_name` with your actiual image file name.<br>
+For example -
 ```markdown
 ---
 layout: hackbar
@@ -73,51 +86,44 @@ author: Tasnim Zotder
 ---
 
 In open source, we feel strongly that to really do something well, you have to get a lot of people involved.
+
+---
+
+## We are lossing the chance ⏱
+
+![Ending Earth]({{site.baseurl}}/assets/images/shahil_akter.jpg)
 ```
 
-7. Add the changed files
+9. Add the changed files
 ```bash
 git add .
 ```
 
-8. `Commit` the changes you have made
+10. `Commit` the changes you have made
 ```bash
 git commit -m "your_message"
 ```
 
-9. `Push` the codes to your repository
+11. `Push` the codes to your repository
 ```bash
 git push
 ```
 
-10. Create a pull request
-![PR](/assets/PR.jpg)
+12. Create a pull request
+![PR](/assets/docs_img/PR.jpg)
 
-11. Next...
-![PR](/assets/PR_1.jpg)
+13. Next...
+![PR](/assets/docs_img/PR_1.jpg)
 
-12. Next...
-![PR](/assets/PR_2.jpg)
+14. Next...
+![PR](/assets/docs_img/PR_2.jpg)
 
-13. 🎉🎉🎉 Congratulations. Your PR is live.
+15. 🎉🎉🎉 Congratulations. Your PR is live.
 
-## B. OR
 
-1. `Fork` this repository.
+## PLEASE DON'T FORGOT TO CONTRIBUTE AND CREATE NEW `ISSUE`
 
-2. `Clone` the `forked` repository from your account.
-
-3. Go to `issue` section and find one of your choice.
-
-4. Resolve the issue by changing code of the respective code section.
-
-5. `Commit` your change with appropriate message.
-
-6. Create a `pull request` for the corresponding `issue`
-
-> PLEASE DON'T FORGOT TO CONTRIBUTE AND CREATE NEW ISSUE
-
-# Rules of Hacktoberfest
+# 📝 Rules of Hacktoberfest
 
 1. You need to make 4 valid PR (`Pull Request`) between October 1-31.
 1. `PR` can be made to any public repo on GitHub.
