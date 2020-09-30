@@ -26,7 +26,7 @@ All of our user-submitted `hackbars` are available in the `/_hackbars` directory
 🎁 A `hackbar` contains -
 
 1. A message on `open-source`.
-1. A message on `climage change`.
+1. A message on `climate change`.
 1. A image of `climate change awareness` or a selfie with `plantation`.
 
 # How to contribute
