@@ -76,7 +76,7 @@ author: your_name
 
 ![image_caption]({{site.baseurl}}/assets/images/image_name.jpg)
 ```
-Change `image_name` with your actiual image file name.<br>
+Change `image_name` with your actual image file name.<br>
 For example -
 ```markdown
 ---
