@@ -1,6 +1,6 @@
 # Hacktoberfest 2020 👩‍💻 + 🌍
 
-Let's change the world together with `Open-Source` & make a awareness on `climate change`
+Let's change the world together with `Open-Source` & make an awareness on `climate change`
 
 <p align="center">
   <a><img src="https://img.shields.io/github/labels/tasnimzotder/hacktoberfest-2020/hacktoberfest?style=flat-square" /></a>
@@ -89,7 +89,7 @@ In open source, we feel strongly that to really do something well, you have to g
 
 ---
 
-## We are lossing the chance ⏱
+## We are losing the chance ⏱
 
 ![Ending Earth]({{site.baseurl}}/assets/images/shahil_akter.jpg)
 ```
@@ -121,7 +121,7 @@ git push
 15. 🎉🎉🎉 Congratulations. Your PR is live.
 
 
-## PLEASE DON'T FORGOT TO CONTRIBUTE AND CREATE NEW `ISSUE`
+## PLEASE DON'T FORGET TO CONTRIBUTE AND CREATE NEW `ISSUES`
 
 # 📝 Rules of Hacktoberfest
 
