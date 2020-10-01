@@ -21,15 +21,15 @@ Let's change the world together with `Open-Source` & make an awareness on `clima
 
 # Top Submission
 
-<figure align="center">
+<p align="center">
   <img height="365px" alt="image" src="https://tasnimzotder.github.io/hacktoberfest-2020/assets/images/TharVid.jpg" />
-  <figcaption><a href="https://tasnimzotder.github.io/hacktoberfest-2020/hackbars/tharvid">Hackbar</a></figcaption>
-</figure>
+</p>
 
 
-- ### Author: [TharVid (SUNIL KUMAR)](https://github.com/TharVid)
-- ### Open Source Message: <b>It’s time to give back to the community. Let’s contribute to a better internet.</b>
-- ### <b>Climate Change Message: Let’s Plant A Tree For Better Future</b>
+- #### [Hackbar](https://tasnimzotder.github.io/hacktoberfest-2020/hackbars/tharvid)
+- #### Author: [TharVid (SUNIL KUMAR)](https://github.com/TharVid)
+- #### Message on Open Source: <b>It’s time to give back to the community. Let’s contribute to a better internet.</b>
+- #### Message on Climate Change: <b>Let’s Plant A Tree For Better Future</b>
 
 ---
 
