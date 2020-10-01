@@ -1,6 +1,6 @@
 ---
 layout: hackbar
-title: Let's Save Our Home | Let's Plat A Tree
+title: Let's Save Our Home - Let's Plat A Tree
 author: TharVid
 ---
 
