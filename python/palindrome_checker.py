@@ -8,10 +8,10 @@
 def palindrome (s):
     r=s[::-1]
     if(r==s):
-        print("Yes")
+        print("Yes It is a palindrome")
     else:
-        print("No")
-s = input()
+        print("No It is not a palindrome")
+s = input("Enter a String to check whether it is palindrome or not")
 palindrome(s)
 
 #Palindrome check for Number (Integer) inputs.
@@ -24,7 +24,7 @@ while(num>0):
     rev=rev*10+dig
     num=num//10
 if(temp==rev):
-    print("The number is palindrome!")
+    print("The number is Palindrome!")
 else:
-    print("Not a palindrome!")
+    print("The number is Not a palindrome!")
 
