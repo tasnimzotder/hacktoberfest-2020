@@ -8,6 +8,6 @@ It's time to give back to the community. Let's contribute to a better internet.
 
 ---
 
-##Let's Plat A Tree For Better Future
+## Let's Plant A Tree For Better Future
 
 ![image_caption]({{site.baseurl}}/assets/images/TharVid.jpg)
