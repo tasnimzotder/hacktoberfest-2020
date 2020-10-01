@@ -4,7 +4,7 @@ title: Sonu's Hackbar
 author: Mukhtar Zotder
 ---
 
-Let's do open-source together ⌚.
+Let's do open-source together ⌚⌚.
 
 ---
 
