@@ -9,16 +9,23 @@ class Area {
   // Circle
   circle(radius) {
     // Todo: Write a function to reaturn the area of a circle
+
+    return radius * Math.PI.toFixed(3);
   }
 
   // Square
   square(side) {
     // Todo: Write a function to reaturn the area of a square
+
+    return side * side;
+
   }
 
   // Rectangle
   rectangle(length, breadth) {
     // Todo: Write a function to reaturn the area of a circle
+    return length * breadth;
+
   }
 }
 
