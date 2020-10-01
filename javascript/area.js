@@ -1,25 +1,28 @@
 // Area of tringle, circle, square & rectangle
 
 class Area {
-  // Triangle
-  triangle(base, height) {
-    return 0.5 * base * height;
-  }
+    // Triangle
+    triangle(base, height) {
+        return 0.5 * base * height;
+    }
 
-  // Circle
-  circle(radius) {
-    // Todo: Write a function to reaturn the area of a circle
-  }
+    // Circle
+    circle(radius) {
+        // Todo: Write a function to reaturn the area of a circle
+        return 3.14 * radius * radius;
+    }
 
-  // Square
-  square(side) {
-    // Todo: Write a function to reaturn the area of a square
-  }
+    // Square
+    square(side) {
+        // Todo: Write a function to reaturn the area of a square
+        return side * side;
+    }
 
-  // Rectangle
-  rectangle(length, breadth) {
-    // Todo: Write a function to reaturn the area of a circle
-  }
+    // Rectangle
+    rectangle(length, breadth) {
+        // Todo: Write a function to reaturn the area of a circle
+        return length * breadth;
+    }
 }
 
 var tr_area = new Area().triangle(3, 5);
