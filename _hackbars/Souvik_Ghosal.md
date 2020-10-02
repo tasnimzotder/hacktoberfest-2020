@@ -1,6 +1,6 @@
 ---
 layout: hackbar
-title: 
+title: Green environment 
 author: Souvik Ghosal
 ---
 
