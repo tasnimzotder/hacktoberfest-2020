@@ -4,7 +4,7 @@ title: Climate Change
 author: Pratiksha Ramteke
 ---
 
-<!-- Your MESSAGE on open source-->
+Hello my name is Pratiksha Ramteke. I am participating for the first time in the Hacktober Fest! This would be my first contribution to the open source.
 
 ---
 
