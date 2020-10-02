@@ -2,7 +2,7 @@ def title_case(name):
       size=len(name)
       a=" "
       for i in range(size):
-            if name[i]="" or name[i]==".":
+            if name[i]=="" or name[i]==".":
                  name[i+1]=name[i+1].upper()
        return a.join(name)
  name="the boy is playing"
