@@ -1,5 +1,5 @@
 #include <stdio.h>
-main()
+int main()
 {
          int i, j, n;
          printf(" Enter how many prime numbers you want to print: ");
