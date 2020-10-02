@@ -1,7 +1,7 @@
 ---
 layout: hackbar
 title: Open Source
-author: Tasnim Zotder
+author: Chaitali Narkhede
 ---
 
 Open source is a wonderful opputunity for us to learn and contribute at the same time.
