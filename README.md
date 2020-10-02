@@ -9,7 +9,7 @@ Let's change the world together with `Open-Source` & make an awareness on `clima
   <a><img src="https://img.shields.io/github/issues-pr/tasnimzotder/hacktoberfest-2020?style=flat-square" /></a>
 </p>
 
-## Time is short but together we still have a chance to `recover our planet earth` 🌍.
+## Time is short but together we still have a chance to recover our planet earth 🌍.
 
 ![Hacktoberfest](/assets/docs_img/hacktoberfest.jpg)
 
@@ -19,7 +19,7 @@ Let's change the world together with `Open-Source` & make an awareness on `clima
 
 ---
 
-# Top Submission
+# Top [Hackbar(s)](https://tasnimzotder.github.io/hacktoberfest-2020/hackbars/)
 
 <p align="center">
   <img height="365px" alt="image" src="https://tasnimzotder.github.io/hacktoberfest-2020/assets/images/TharVid.jpg" />
@@ -135,7 +135,7 @@ git push
 15. 🎉🎉🎉 Congratulations. Your PR is live.
 
 
-## PLEASE DON'T FORGET TO CONTRIBUTE AND CREATE NEW `ISSUES`
+## PLEASE DON'T FORGET TO CONTRIBUTE AND CREATE NEW ISSUES
 
 # 📝 Rules of Hacktoberfest
 
