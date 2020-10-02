@@ -7,7 +7,7 @@ int main()
  for(j=1;j<=7;j++)
   {if(j>=5-m && j<=3+m && c==1)
    {
-     printf("*");
+     printf(" * ");
       c=0;
  }
  else
