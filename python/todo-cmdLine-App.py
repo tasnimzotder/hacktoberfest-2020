@@ -4,6 +4,8 @@ Documentation:
 1) Functionality = adding of task, displaying task, deletion of task
 2) Global variable = taskList (type: list)
 3) Author = prathmesh-Chaudhari05 (gitHub A/C)
+
+-->Changes Applied on Line 28 
 *******************My Small Contribution to Open Souce**************************
 '''
 import pyttsx3
@@ -23,6 +25,8 @@ def display():
 
 def delete():
     indx = int(input('Input Index number to Delete-->'))
+    indx = indx-1   #user will enter any number and I'll reduce it by one coz list index start from 0(zero)
+    # taskList.pop(indx)
     speak = taskList.pop(indx)+' task has successfully deleted'
     print(speak)
 
@@ -30,6 +34,7 @@ def delete():
 print('Welcome to To Do List Command Line App')
 
 while True:
+    print('***************************')
     print("""    1. Add In List
     2. Display List
     3. Delete Task
