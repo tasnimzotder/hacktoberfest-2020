@@ -24,7 +24,7 @@ jobs:
         with:
           files:  "*.md, *.jpg"
       
-      - name: File not exists
+      - name: File not exist
         if: steps.check_files.outputs.files_exists == 'false'
         run: exit 1
       
