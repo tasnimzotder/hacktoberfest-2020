@@ -3,7 +3,7 @@
 Let's change the world together with `Open-Source` & make an awareness on `climate change`
 
 <p align="center">
-  <a><img src="https://img.shields.io/github/labels/tasnimzotder/hacktoberfest-2020/hacktoberfest?style=flat-square" /></a>
+  <a><img alt="GitHub labels" src="https://img.shields.io/github/labels/tasnimzotder/hacktoberfest-2020/climate-change?style=flat-square"></a>
   <a><img src="https://img.shields.io/github/hacktoberfest/2020/tasnimzotder/hacktoberfest-2020?style=flat-square" /></a>
   <a><img src="https://img.shields.io/github/issues/tasnimzotder/hacktoberfest-2020?style=flat-square" /></a>
   <a><img src="https://img.shields.io/github/issues-pr/tasnimzotder/hacktoberfest-2020?style=flat-square" /></a>
