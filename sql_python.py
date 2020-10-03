@@ -174,20 +174,20 @@ but.place(x=480,y=35)
 
 
 
-#con=sqlite3.Connection("School.db")
-#cur=con.cursor()
-#cur.execute("""
-#CREATE TABLE STUDENTS
-#(
-#    NAME TEXT,
-#    ROLL_NO VARCHAR PRIMARY KEY,
-#    CLASS INT,
-#    SECTION TEXT,
-#    SEX TEXT,
-#    EMAIL_ID TEXT
-#)""")
-#con.commit()
-#con.close()
+con=sqlite3.Connection("School.db")
+cur=con.cursor()
+cur.execute("""
+CREATE TABLE STUDENTS
+(
+    NAME TEXT,
+    ROLL_NO VARCHAR PRIMARY KEY,
+    CLASS INT,
+    SECTION TEXT,
+    SEX TEXT,
+    EMAIL_ID TEXT
+)""")
+con.commit()
+con.close()
 frame3=Frame(frame2,bd=4,relief="ridge",bg="white")
 frame3.place(x=0,y=70,width=720,height=500)
 scroll_x=Scrollbar(frame3,orient=HORIZONTAL)
