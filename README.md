@@ -7,6 +7,7 @@ Let's change the world together with `Open-Source` & make an awareness on `clima
   <a><img src="https://img.shields.io/github/hacktoberfest/2020/tasnimzotder/hacktoberfest-2020?style=flat-square" /></a>
   <a><img src="https://img.shields.io/github/issues/tasnimzotder/hacktoberfest-2020?style=flat-square" /></a>
   <a><img src="https://img.shields.io/github/issues-pr/tasnimzotder/hacktoberfest-2020?style=flat-square" /></a>
+  <a><img alt="Codacy grade" src="https://img.shields.io/codacy/grade/48f326d1575c4c1faf0531ccfdebc6b1?logo=codacy&style=flat-square"></a>
 </p>
 
 ## Time is short but together we still have a chance to recover our planet earth 🌍.
