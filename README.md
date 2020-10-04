@@ -140,6 +140,7 @@ git push
 # 📝 Rules of Hacktoberfest
 
 1. You need to make 4 valid PR (`Pull Request`) between October 1-31.
-1. `PR` can be made to any public repo on GitHub.
+1. `PR` can be made to any public repo on GitHub with the **`Hacktoberfest`** topic.
 1. If a maintainer reports your PR as spam or behavior not in line with the project's code of conduct, you will be ineligible to participate.
-1. This year, the first `75K` participants who successfully complete the challenge will be eligible to receive a price.
+1. This year, the first `70K` participants who successfully complete the challenge will be eligible to receive a prize.
+1. The pull requests will also need to be merged, approved by a maintainer, or labeled as **`hacktoberfest-accepted`** in order to qualify. 
