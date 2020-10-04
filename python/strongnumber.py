@@ -1,16 +1,13 @@
 def strongnumber(n):
-    _sum=0
+    sum=0
     r=0
-
     while n!=0:
         r=n%10
         fact=1
-
         while r!=0:
             fact=fact*r
             r=r-1
-
-        _sum=_sum+fact
+        sum=sum+fact
         n=n//10
     return sum
 
