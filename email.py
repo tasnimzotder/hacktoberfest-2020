@@ -10,14 +10,12 @@ def com1():
     root.destroy()
     root1=Tk()
     global flag
-
     root1.title("OUTPUT")
     root1.geometry("7000x6000")
     root1.minsize(500,600)
     canvas=Canvas(root1,width=2000,height=2200,bg="sky blue")
     canvas.place(x=0,y=0)
     M=StringVar()
-
     x_1,y_1,x_2,y_2=550,200,650,300  #coordinates for the big circle
     a_1,b_1,a_2,b_2=730,220,790,280  #coordinates for the small circle
     global countsmallclick,countbigclick
@@ -36,8 +34,6 @@ def com1():
         flag=1
         countbigclick=0
         countsmallclick=0
-
-      
     elif charge2val>charge1val:
         charge1val,charge2val=charge2val,charge1val
         oval1=canvas.create_oval(x_1,y_1,x_2,y_2,fill="orange")        
@@ -50,9 +46,7 @@ def com1():
         f,g=compute.mp(650,250,730,250)
         dist=int((compute.liner(650,250,730,250)//80))
         distance=canvas.create_text(f,g,text=f"{dist}")
-        
-        flag=1
-        
+        flag=1   
     else:
         oval1=canvas.create_oval(610,220,670,280,fill="grey")
         text1=canvas.create_text(640,250,text=f"{charge1val}",fill="white")        
@@ -64,8 +58,7 @@ def com1():
         f,g=compute.mp(670,250,730,250)
         dist=int((compute.liner(670,250,730,250))//60) 
         distance=canvas.create_text(f,g,text=f"{dist}")
-        flag=2
-        
+        flag=2 
     bumbam=i.get()
     bambum=mango.get()
     q=compute.getter(bambum)
@@ -86,7 +79,6 @@ def com1():
         heaven=0
         m=event.x
         n=event.y
-        
         if flag==1:  #for un even circles
             if countsmallclick>=0:
                 try:
@@ -175,10 +167,7 @@ def com1():
                     y11=n
                     f,g=compute.mp(x_axis,y_axis,a1,n)
                     distnew=int((compute.liner(x_axis,y_axis,a1,n))//80)
-                    distancenew=canvas.create_text(f,g,text=f"{distnew}")
-                    
-                    
-
+                    distancenew=canvas.create_text(f,g,text=f"{distnew}
                 except NameError or UnboundLocalError:
                     if flagsmall==0:
                         canvas.delete(line1)
@@ -192,8 +181,7 @@ def com1():
                         y11=n
                         f,g=compute.mp(x_axis,y_axis,a1,n)
                         distnew=int((compute.liner(x_axis,y_axis,a1,n))//80)
-                        distancenew=canvas.create_text(f,g,text=f"{distnew}")
-                        
+                        distancenew=canvas.create_text(f,g,text=f"{distnew}"      
                     elif flagsmall==1:
                         canvas.delete(line3)
                         canvas.delete(oval2)
@@ -368,7 +356,6 @@ box5=Radiobutton(root,text="Free Space",value=3,variable=box,bd=2,relief="sunken
 box5.place(x=380,y=100)
 label4=Label(root,text="UNIT :",font="TIMESNEWROMAN 16 bold",bg="grey",fg="black",bd=2,relief="solid")
 label4.place(x=100,y=150)
-
 i=IntVar()
 r1=Radiobutton(root,text="pm",value=123,variable=i,bd=2,relief="sunken")
 r2=Radiobutton(root,text="cm",value=234,variable=i,bd=2,relief="sunken")
@@ -378,7 +365,6 @@ r1.place(x=200,y=150)
 r2.place(x=260,y=150)
 r3.place(x=320,y=150)
 r4.place(x=380,y=150)
-
 mango=IntVar()
 label5=Label(root,text="CHARGE'S UNIT:",font="TIMESNEWROMAN 12 bold",bg="grey",fg="black",bd=2,relief="solid").place(x=50,y=200)
 rad1=Radiobutton(root,text="c",value=123,variable=mango,bd=2,relief="sunken")
