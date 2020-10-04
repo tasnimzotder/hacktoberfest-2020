@@ -10,7 +10,7 @@ def strongnumber(n):
             fact=fact*r
             r=r-1
             
-        _sum=_sum+fact 
+        _sum=_sum+fact
         n=n//10
     return sum
 
