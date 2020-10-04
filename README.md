@@ -1,5 +1,7 @@
 # Hacktoberfest 2020 👩‍💻 + 🌍
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9b21b42b0f8546e1bfe47a44afd8b004)](https://app.codacy.com/gh/tasnimzotder/hacktoberfest-2020?utm_source=github.com&utm_medium=referral&utm_content=tasnimzotder/hacktoberfest-2020&utm_campaign=Badge_Grade_Settings)
+
 Let's change the world together with `Open-Source` & make an awareness on `climate change`
 
 <p align="center">
