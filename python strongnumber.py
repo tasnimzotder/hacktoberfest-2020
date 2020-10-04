@@ -1,4 +1,5 @@
-def strongnumber(n,sum=0):
+def strongnumber(n):
+    sum=0
     r=0
     while n!=0:
         r=n%10
