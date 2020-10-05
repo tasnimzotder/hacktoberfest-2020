@@ -8,8 +8,8 @@
 
 // generates a random uuid
 
-const { v4: uuidv4 } = require('uuid');
-console.log(`${uuidv4()}`)
+`` const { v4: uuidv4 } = require('uuid'); ``
+/* console.log(`${uuidv4()}`) */
 
 // output
 // da8f5839-63f0-4c25-a7b1-a0172a03904b
