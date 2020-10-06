@@ -8,6 +8,6 @@ author: Mahendra singh
 
 ---
 
-We are losing the Earth ⏱
+## We are Losing The Earth ⏱
 
 ![Save earth before it is too late]({{site.baseurl}}/assets/images/mahendrasingh.jpeg)
