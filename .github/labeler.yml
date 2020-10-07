@@ -1,0 +1,21 @@
+repo:
+  - any: ./*
+    all: ['!README.md']
+
+climate-change:
+  - _hackbars/*.md
+  
+hackbar:
+  - all: ['_hackbars/*.md', 'assets/images/**']
+  
+python:
+  - python/*.py
+  
+javascript:
+  - javascript/*.js
+  
+cpp:
+  - cpp/*.cpp
+  
+documentation:
+  - README.md
