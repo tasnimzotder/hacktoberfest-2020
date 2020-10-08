@@ -27,7 +27,6 @@ def binary(n):
     n=int(n)
     b=''
     while n!=0:
-
         a=n%2
         b+=str(a)
         n=n//2
@@ -38,17 +37,11 @@ def decimal(na):
     s=0
     while w!=0:
         a=w%10
-        s+=(a*(2**count))
-            
+        s+=(a*(2**count))    
         count+=1
         w=w//10
     return str(s)
-
-
-
-
 def octal(n):
-    
     l=str(n)
     size=len(l)
     if size>=3:
@@ -57,7 +50,6 @@ def octal(n):
         d=''
         l=list(l)
         if s!=0:
-            
             if s==1:                
                 a=l.pop(0)
             else:
@@ -66,7 +58,6 @@ def octal(n):
                 a=decimal(a)
         size=len(l)
         count=1
-        
         for i in range(size-1,-1,-1):    
             if count==1:  
                 c=l[i-2]+l[i-1]+l[i]
@@ -76,25 +67,17 @@ def octal(n):
                 count-=1
         f=a+d
     else:
-        f=decimal(l)
-        
+        f=decimal(l)  
     return f
-
-
-
-
 def hexadecimal(n):
     l = str(n)
     size=len(l)
     if size>=4:
         l=list(l)
-
         s=size % 4
         a=''
         if s!=0:
-
             if s==1:
-
                 a=l.pop(0)
             elif s==2:
                 a=l.pop(0)
@@ -102,33 +85,27 @@ def hexadecimal(n):
             elif s==3:
                 a=l.pop(0)
                 a+l.pop(0)
-                a+= l.pop(0)
-
+                a+=l.pop(0)
         size=len(l)
         count=1
         d=''
         for i in range(size - 1, -1, -1):
-
             if count==1:
                 de=decimal(l[i-3]+l[i-2]+l[i-1]+l[i])
                 if de=="0000":
                     c='0'
                     d=c+d
-                else:
-                    
+                else:         
                     c=hexpicker(de)
                     d=c+d
-                    count= 4
+                    count=4
             else:
-                count-= 1
+                count-=1
         m=decimal(a)
         f=m+d
     else:
         f=decimal(l)
-
     return f
-
-
 def hex2bin(inp):
     a=''
     for i in inp:
@@ -149,25 +126,17 @@ def hex2bin(inp):
             b=int(i)
             c=binary(b)
             while len(c)!=4:
-                c='0'+c
-
+                c='0'
             a+=c
     return a
-
-
 def oct2bin(inp):
-
     s=''
-
     for i in inp:
-
         a=int(i)
         a=binary(a)
         while len(a)!=3:
             a='0'+a
-
         s+=str(a)
-
     return s
 
 
