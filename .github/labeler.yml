@@ -1,12 +1,12 @@
 repo:
-  - any: ./*
-    all: ['!README.md']
+  - ./*
 
 climate-change:
   - _hackbars/*.md
   
 hackbar:
-  - all: ['_hackbars/*.md', 'assets/images/**']
+  - _hackbars/*.md
+  - assets/images/**
   
 python:
   - python/*.py
