@@ -11,4 +11,4 @@ We Don't have any Planet B! Be Aware of the climate change give your best effort
 
 ## There's No Planet B! 🌎
 
-![Poster for Climate Change Awareness]({{site.baseurl}}/assets/images/Amresh_Prasad_Sinha.jpg)
+![Poster for Climate Change Awareness]({{site.baseurl}}/assets/images/Amresh_Prasad_Sinha.png)
