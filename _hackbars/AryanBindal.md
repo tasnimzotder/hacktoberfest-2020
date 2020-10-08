@@ -11,6 +11,4 @@ It's time to give back to the community.
 
 ## Make Earth a better place
 
----
-
 ![Save earth before it is too late]({{site.baseurl}}/assets/images/Aryaniiit_002.jpeg)
