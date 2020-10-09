@@ -6,7 +6,6 @@ climate-change:
   
 hackbar:
   - _hackbars/*.md
-  - assets/images/**
   
 python:
   - python/*.py
