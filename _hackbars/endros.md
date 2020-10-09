@@ -9,6 +9,6 @@ Hello coders, my first time participation in hacktoberfest. excited to make this
 
 ---
 
-## We are no have time ⏱
+## We are no have time⏱
 
 ![Ending Earth]({{site.baseurl}}/assets/images/endros_holdingboard.jpg)
