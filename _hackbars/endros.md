@@ -6,9 +6,8 @@ author: Endros
 
 Hello coders, my first time participation in hacktoberfest. excited to make this PR.
 
-
 ---
 
-## We are no have time⏱
+## No more time
 
 ![Ending Earth]({{site.baseurl}}/assets/images/endros_holdingboard.jpg)
