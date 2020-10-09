@@ -2,10 +2,10 @@ repo:
   - ./*
 
 climate-change:
-  - _hackbars/*.md
+  - any: ['_hackbars/*.md', 'assets/images/*']
   
 hackbar:
-  - _hackbars/*.md
+  - all: ['_hackbars/*.md', 'assets/images/*']
   
 python:
   - python/*.py
