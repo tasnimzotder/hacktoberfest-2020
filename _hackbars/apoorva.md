@@ -4,9 +4,9 @@ title: Tress and Heartbreaks
 author: Apoorva
 ---
 
-all the open source code o GitHub is being stored
+All the open source code on GitHub is being stored
 in cold storages situated in the northern cap of the 
-planet. Ig the glaciers melt, they'll destroy humanity
+planet. If the glaciers melt, they'll destroy humanity
 along with all of open source. Save planet, save code!
 
 ---
