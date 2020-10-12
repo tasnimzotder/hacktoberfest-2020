@@ -1,6 +1,6 @@
 ---
 layout: hackbar
-title: any_title
+title: hackbar pertama saya
 author: Muhammad Rizaldi
 ---
 
