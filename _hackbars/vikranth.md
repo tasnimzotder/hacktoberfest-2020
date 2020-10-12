@@ -4,7 +4,7 @@ title: climate change
 author: vikranth
 ---
 
-Open source is one of the most efficient ways in which one can contribute. i personally feel it to be a great way to contribute together with different people having different ideas.
+Open source is one of the most efficient ways in which one can contribute. I personally feel it to be a great way to contribute together with different people having different ideas.
 
 ---
 
