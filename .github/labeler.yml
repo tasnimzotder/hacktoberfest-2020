@@ -1,0 +1,18 @@
+python:
+  - any: ['python/*.py', 'python/**/*.py']
+
+javascript:
+  - any: ['javascript/*.js', 'javascript/**/*.js']
+
+cpp:
+  - any: ['cpp/*.cpp', 'cpp/**/*.cpp']
+  
+documentation:
+  - any: ['README.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md']
+
+climate-change:
+  - any: ['_hackbars/*.md', 'assets/images/*']
+
+
+hackbar:
+  - all: ['_hackbars/*.md', 'assets/images/*']
