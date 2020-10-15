@@ -1,5 +1,5 @@
-afforest == 1
-deforest == 0
+afforest = 1
+deforest = 0
 choice = int(input("enter your choice of world : "))
 if choice==1:
    print("you will have a beutiful world ahead ")
