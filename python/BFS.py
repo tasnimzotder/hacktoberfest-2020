@@ -40,7 +40,7 @@ l = [[0,0,0,1,0,1,1,0,1,1],
 # DFS Traversal
 start_node = 0
 goal_node = 4
-dfs(l, start_node, goal_node)
+bfs(l, start_node, goal_node)
 print()
 
 
