@@ -10,29 +10,15 @@ Let's change the world together with `Open-Source` & make an awareness on `clima
   <a><img alt="Codacy grade" src="https://img.shields.io/codacy/grade/48f326d1575c4c1faf0531ccfdebc6b1?logo=codacy&style=flat-square"></a>
 </p>
 
-## Time is short but together we still have a chance to recover our planet earth 🌍.
+## Time is short but together we still have a chance to recover our planet 🌍
 
 ![Hacktoberfest](/assets/docs_img/hacktoberfest.jpg)
 
 ## 📝 [Register here](https://hacktoberfest.digitalocean.com/) for Hacktoberfest 2020
 
-### 👉 Pull requests for Hacktoberfest count October 1-31.
+### 👉 Pull requests for Hacktoberfest count October 1-31
 
----
-
-# Top [Hackbar(s)](https://tasnimzotder.github.io/hacktoberfest-2020/hackbars/)
-
-<p align="center">
-  <img height="365px" alt="image" src="https://tasnimzotder.github.io/hacktoberfest-2020/assets/images/TharVid.jpg" />
-</p>
-
-
-- #### [Hackbar](https://tasnimzotder.github.io/hacktoberfest-2020/hackbars/tharvid)
-- #### Author: [TharVid (SUNIL KUMAR)](https://github.com/TharVid)
-- #### Message on Open Source: <b>It’s time to give back to the community. Let’s contribute to a better internet.</b>
-- #### Message on Climate Change: <b>Let’s Plant A Tree For Better Future</b>
-
----
+<br />
 
 # [Hackbars](https://tasnimzotder.github.io/hacktoberfest-2020/hackbars) 🍫
 
