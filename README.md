@@ -1,4 +1,4 @@
-# Hacktoberfest 2020 👩‍💻 + 🌍
+# <img alt="hf-icon" src="assets/docs_img/Icon.svg" height="32px" /> Hacktoberfest 2020 👩‍💻 + 🌍
 
 Let's change the world together with `Open-Source` & make an awareness on `climate change`
 
@@ -12,7 +12,7 @@ Let's change the world together with `Open-Source` & make an awareness on `clima
 
 ## Time is short but together we still have a chance to recover our planet 🌍
 
-![Hacktoberfest](/assets/docs_img/hacktoberfest.jpg)
+![Hacktoberfest](/assets/docs_img/hacktoberfest.png)
 
 ## 📝 [Register here](https://hacktoberfest.digitalocean.com/) for Hacktoberfest 2020
 
@@ -30,7 +30,7 @@ All of our user-submitted `hackbars` are available in the `/_hackbars` directory
 1. A message on `climate change`.
 1. A image of `climate change awareness` or a selfie with `plantation`.
 
-# How to contribute
+# 〉 How to contribute
 
 ## To contribute a hackbar 🍫 - 
 
@@ -65,8 +65,8 @@ code .
 ```markdown
 ---
 layout: hackbar
-title: any_title
-author: your_name
+title: <ANY_TITLE>
+author: <YOUR_NAME>
 ---
 
 <!-- Your MESSAGE on open source-->
@@ -75,7 +75,7 @@ author: your_name
 
 ## <!-- Your MESSAGE on climate change -->
 
-![image_caption]({{site.baseurl}}/assets/images/image_name.jpg)
+![image_caption]({{site.baseurl}}/assets/images/<IMAGE_NAME>.jpg)
 ```
 Change `image_name` with your actual image file name.<br>
 For example -
@@ -83,7 +83,7 @@ For example -
 ---
 layout: hackbar
 title: Open Source
-author: Tasnim Zotder
+author: Shahil Akter
 ---
 
 In open source, we feel strongly that to really do something well, you have to get a lot of people involved.
@@ -102,7 +102,7 @@ git add .
 
 10. `Commit` the changes you have made
 ```bash
-git commit -m "your_message"
+git commit -m "YOUR_MESSAGE"
 ```
 
 11. `Push` the codes to your repository

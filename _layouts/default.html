@@ -21,7 +21,7 @@
   </head>
   <body>
 
-    <header class="page-header" role="banner" style="background-image: url('assets/docs_img/hacktoberfest-banner.jpg'); background-repeat: no-repeat; background-size: cover; opacity: 0.8;">
+    <header class="page-header" role="banner" style="background-image: url('assets/docs_img/hacktoberfest-banner.png'); background-repeat: no-repeat; background-size: cover; opacity: 0.8;">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
@@ -37,6 +37,7 @@
       {{ content }}
 
       <footer class="site-footer">
+        <img align="center" alt="hf" src="/assets/docs_img/_Sponsors Dark.svg" />
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
