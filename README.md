@@ -1,4 +1,4 @@
-# <img alt="hf-icon" src="assets/docs_img/icon.svg" height="32px" /> Hacktoberfest 2020 👩‍💻 + 🌍
+# <img alt="hf-icon" src="assets/docs_img/Icon.svg" height="32px" /> Hacktoberfest 2020 👩‍💻 + 🌍
 
 Let's change the world together with `Open-Source` & make an awareness on `climate change`
 
