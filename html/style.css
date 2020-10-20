@@ -68,3 +68,28 @@ h1 {
   }
 
 }
+
+h1:hover{
+  color: green;
+}
+
+.rules-section{
+  box-shadow: 5px 5px 30px rgba(217, 217, 217, 0.4);
+  transition: all .4s ease-in-out;
+}
+
+.rules-section:hover {
+  
+  box-shadow: 3px 3px 10px rgba(0,0,0,.2), -3px -3px 10px rgba(0,0,0,.2);
+  border-radius: 50px;
+  transition: scale(1.1);
+}
+
+a{
+  font-size: 2rem;
+  color: darkblue;
+  align-items: center;
+}
+a:hover{
+  color:purple;
+}
