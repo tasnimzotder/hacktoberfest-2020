@@ -65,8 +65,8 @@ code .
 ```markdown
 ---
 layout: hackbar
-title: <ANY_TITLE>
-author: <YOUR_NAME>
+title: ANY_TITLE
+author: YOUR_NAME
 ---
 
 <!-- Your MESSAGE on open source-->
@@ -75,7 +75,7 @@ author: <YOUR_NAME>
 
 ## <!-- Your MESSAGE on climate change -->
 
-![image_caption]({{site.baseurl}}/assets/images/<IMAGE_NAME>.jpg)
+![image_caption]({{site.baseurl}}/assets/images/IMAGE_NAME.jpg)
 ```
 Change `image_name` with your actual image file name.<br>
 For example -
