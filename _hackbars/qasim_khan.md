@@ -10,4 +10,4 @@ I believe open source is a great opportunity for new developers to contribute to
 
 ## We need to respond decisively
 
-![Rising Temperature]({{site.baseurl}}/assets/images/<Qasim_Khan>.jpg)
+![Rising Temperature]({{site.baseurl}}/assets/images/Qasim_Khan.jpg)
