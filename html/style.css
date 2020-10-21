@@ -47,11 +47,11 @@ h1 {
   color: #ff8e3c;
 }
 
-.rules-section ul {
+.rules-section ol {
   list-style-type: disc;
   padding: 0.75rem;
 }
-.rules-section ul li {
+.rules-section ol li {
   font-size: 1rem;
   margin-left: 2rem;
 }
