@@ -10,4 +10,4 @@ Open source is wonderful because we can work with people from different backgrou
 
 ## Protect our forests! 
 
-![image_caption]({{site.baseurl}}/assets/images/barbaraaliverti.jpg)
+![image_caption]({{site.baseurl}}/assets/images/barbararaaliverti.jpeg)
