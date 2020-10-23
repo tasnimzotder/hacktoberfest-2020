@@ -1,7 +1,7 @@
 ---
 layout: hackbar
-title: ANY_TITLE
-author: YOUR_NAME
+title: Hack the Planet!
+author: Droogy
 ---
 
 In a world where information is the greatest asset, it's of the upmost importance to preserve and collaborate on software that changes our lives.
