@@ -1,7 +1,7 @@
 ---
 layout: hackbar
-title: ANY_TITLE
-author: YOUR_NAME
+title: for the penguins
+author: eugli
 ---
 
 Open Source is like climate change: everyone can contribute.
