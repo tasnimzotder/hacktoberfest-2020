@@ -11,4 +11,4 @@ OpenSource is full of new innovations and learning opportunities. What are you w
 ## Humans are the only animal who will cut tree, make paper and write save trees on them. #Hacktoberfest #SaveEarth #StopDeforestation
 
 
-![image_caption](../assets/images/Mannan_Bansal.jpg)
+![It's much easier to create a desert than a forest. Stop Deforestation]({{site.baseurl}}/assets/images/Mannan_Bansal.jpg)
