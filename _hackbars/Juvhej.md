@@ -1,7 +1,7 @@
 ---
 layout: hackbar
-title: <Create code & creativity for humanity>
-author: <Juvhej>
+title: Create code & creativity for humanity
+author: Juvhej
 ---
 
 <!-- Your MESSAGE on open source-->
