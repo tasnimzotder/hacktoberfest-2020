@@ -4,7 +4,7 @@ title: Climate change
 author: EdithGaspar
 ---
 
-Hi! This is my firs Hacktoberfest and i'm so excited to make this Pull Request.
+Hi! This is my first Hacktoberfest and i'm so excited to make this Pull Request.
 
 ---
 
