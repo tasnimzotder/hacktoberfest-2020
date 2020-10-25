@@ -1,13 +1,13 @@
 ---
 layout: hackbar
-title: <ANY_TITLE>
-author: <YOUR_NAME>
+title: <First puu request>
+author: <ARNAB GHOSH>
 ---
 
-<!-- Your MESSAGE on open source-->
+<!-- Hi folks! this is my first step in open source-->
 
 ---
 
 ## <!-- Your MESSAGE on climate change -->
 
-![image_caption]({{site.baseurl}}/assets/images/<IMAGE_NAME>.jpg)
+![way towards retarding climate change]({{https://pixabay.com/}}/assets/images/<arnab_hackto-ber>.jpg)
