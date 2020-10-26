@@ -8,6 +8,6 @@ We are part of nature and without nature we are not able to exist, preserve natu
 
 ---
 
-## We are losing the chance ⏱
+## Save Brazil, Save the World, Save or existence! :heart: :brazil:
 
 ![Save Brazil]({{site.baseurl}}/assets/images/caique_coelho.jpg)
