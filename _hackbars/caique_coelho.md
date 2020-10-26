@@ -4,7 +4,7 @@ title: Caique Coelho's hackbar
 author: Caique Coelho
 ---
 
-We are part of nature and without nature we are not able to exist, preserve nature to preserve our existence
+The united open source community can fight for the safety of nature through the use of technology!
 
 ---
 
