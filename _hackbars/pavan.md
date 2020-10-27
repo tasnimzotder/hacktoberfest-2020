@@ -10,4 +10,4 @@ In open source, we feel strongly that to really do something well, you have to g
 
 ## We have only one earth, save it! ⏱
 
-![Ending Earth]({{site.baseurl}}/assets/images/pavan.jpg)
+![Ending Earth]({{site.baseurl}}/assets/images/pavan.jpeg)
