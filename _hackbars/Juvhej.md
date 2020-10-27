@@ -12,4 +12,4 @@ like Openhack @https://sthlm2020.openhack.io/
 
 ## Let's hack for good
 
-![Let's safe this beauty]({{site.baseurl}}/assets/images/<Juvhej>.jpg)
+![Let's safe this beauty]({{site.baseurl}}/assets/images/Juvhej.jpg)
