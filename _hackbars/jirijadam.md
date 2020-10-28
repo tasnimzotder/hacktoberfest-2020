@@ -10,4 +10,4 @@ We should all focus on open source for the better future!
 
 ## We need to lose profits and focus on time and our environment!
 
-![image_caption]({{site.baseurl}}/assets/images/jirijadam.jpg)
+![image_caption]({{site.baseurl}}/assets/images/jirijadam.jpeg)
