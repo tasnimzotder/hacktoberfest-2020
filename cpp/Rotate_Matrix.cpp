@@ -75,10 +75,12 @@ void rotatematrix(int m, int n, int** mat)
 	// Print rotated matrix 
 	for (int i=0; i<R; i++) 
 	{ 
-		for (int j=0; j<C; j++) 
+	     for (int j=0; j<C; j++) 
+	     {
 		cout << mat[i][j] << " "; 
-		cout << endl; 
-	} 
+	     }	     
+	  cout << endl; 
+        } 
 } 
 
 
@@ -92,7 +94,7 @@ int main()
   for(i=0;i<n;i++)
   {
     mat[i]=new int[m];
-   }
+  }
   cout<<"Enter the matrix elements:"<<endl;
   for(i=0;i<n;i++)
   {
