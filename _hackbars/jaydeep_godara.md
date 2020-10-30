@@ -4,7 +4,7 @@ title: It's not too late
 author: Jaydeep Godara
 ---
 
-Open Source has power to connecting people.
+Open Source has power to connect people from diff backgroud.
 
 ---
 
