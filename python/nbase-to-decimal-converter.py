@@ -14,3 +14,6 @@ def nbase_decimal_conv(number_input, n_base):
         formula = int(string_user[i]) * n_base ** i
         sum_num += formula
     return sum_num
+
+print(nbase_decimal_conv(101, 2))
+# Output: 5
