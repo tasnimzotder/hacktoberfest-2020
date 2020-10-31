@@ -8,4 +8,4 @@ author: Nikita kumari
 ---
 
 ## <!-- Climate change will impact the lives of future generations...
-![climate change canvas]({{site.baseurl}}https://www.foundmyself.com/images/Nikita_kumari.png
+![climate change canvas]({{https://www.foundmyself.com/images/blank.png}}https://www.foundmyself.com/images/Nikita_kumari.png
