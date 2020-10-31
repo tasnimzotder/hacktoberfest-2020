@@ -8,6 +8,6 @@ We're better together.
 
 ---
 
-Every plant counts.
+## Every plant counts.
 
 ![image_caption]({{site.baseurl}}/assets/images/attackthemak.jpg)
