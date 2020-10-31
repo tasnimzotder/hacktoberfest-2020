@@ -1,16 +1,23 @@
 # Factorial of a number
-
-def factorial(n):
+#FACTORIAL USING RECURSIVE METHOD.
+def factorial(num):
     # Todo: write function to return the factorial of n
-    if n < 0:
-        return "Sorry, factorial does not exist for negative numbers"
-    elif n == 0:
+    if num < 0:
+        return "negative numbers factorial doesn't exists."
+    elif num == 0:
         return 1
-    elif n == 1:
-        return n
+    elif num == 1:
+        return num
     else:
-        return n*factorial(n-1)
-
-
+        return num*factorial(num-1)
 num = int(input())
 print('Factorial: {}'.format(factorial(num)))
+#end of code.
+
+#ANOTHER METHOD USING LOOP TO FIND FACTORIAL.
+num = int(input("  Enter a number =  "))
+fac = 1 
+for i in range(1, num + 1):
+	fac = fac * i
+print(" The factorial of ", num, " is ", fac)
+#end of code.
