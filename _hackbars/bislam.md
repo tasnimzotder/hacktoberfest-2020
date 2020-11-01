@@ -8,5 +8,5 @@ author: Bislam S
 ---
 
 ## <!-- Your MESSAGE on climate change -->
-
+Let's become a better developers so we can figure to stop our planet from polution
 ![image_caption]({{site.baseurl}}/assets/images/bislam.jpg)
